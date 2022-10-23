@@ -1,1 +1,1 @@
-This is my firsy HTMl boiler plate website
+This is my first HTMl boiler plate website
